@@ -7,7 +7,7 @@
 
 I work with different Web3/crypto orgs to help them find talent, mostly engineers
 
-I usually have openings for the following skills sets, typically for mid - Sr+ ranging from 120-220k+ USD
+I usually have openings for the following skills sets, typically for mid - Sr+ base salaries ranging from 120-220k+ USD + equity / tokens
 
 Shoot me a message for details on current openings!
 
