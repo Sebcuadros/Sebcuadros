@@ -2,21 +2,12 @@
 
 ## I'm a Recruiter, Dota player, Anime enjoyer, and Powerlifter
 
-- 🌱 I’m currently learning guitar, trumpet, and Solidity
-- 🥅 2022 Goals: Become cracked
+- 🌱 I’m currently getting good at react, next, and typescript building micro SaaS apps
+- 🥅 2023 Goals: Become cracked
 
-I work with different Web3/crypto orgs to help them find talent, mostly engineers
+I work with different orgs to help them find talent, mostly engineers
 
 I usually have openings for the following skills sets, typically for mid - Sr+ base salaries ranging from 120-220k+ USD + equity / tokens
-
-Shoot me a message for details on current openings!
-
-- Front end React
-- Full stack React / Node
-- Back end Node / Go
-- Smart contract Solidity / Cadence
-
-Recruiting FAQ https://bit.ly/sebdros
 
 ### Connect with me:
 
