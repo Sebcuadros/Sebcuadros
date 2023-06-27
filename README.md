@@ -1,14 +1,15 @@
-# Hi there, I'm Seb / Cuad 👋 
+# Hi there 👋 
 
-## I'm a Recruiter, Dota player, Anime enjoyer, and Powerlifter
+## I'm a Recruiter @ Whop.com
 
 - 🌱 I’m currently getting good at react, next, and typescript building micro SaaS apps
 - 🥅 2023 Goals: Become cracked
 
-I work with different orgs to help them find talent, mostly engineers
+We're currently hiring a Sr FS (React / Rails) engineer 180-240k building full fledged features focused on payments, search, and discoverability for our internet marketplace! 
 
-I usually have openings for the following skills sets, typically for mid - Sr+ base salaries ranging from 120-220k+ USD + equity / tokens
+JD -> https://careers.whop.com/26288
 
+You can email me at sebastian@whop.com
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/SebCuadros#gh-light-mode-only)
