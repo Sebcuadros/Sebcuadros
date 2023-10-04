@@ -2,7 +2,7 @@
 
 ## I'm a Recruiter @ Whop.com
 
-- 🌱 I’m currently getting good at react, next, and typescript building micro SaaS apps
+- 🌱 I’m currently getting good at next and typescript building recruiting saas apps
 - 🥅 2023 Goals: Become cracked
 
 We're currently hiring a Sr FS (React / Rails) engineer 180-240k building full fledged features focused on payments, search, and discoverability for our internet marketplace! 
