@@ -1,13 +1,8 @@
 # Hi there 👋 
 
-## I'm a Recruiter @ Whop.com
+## I'm a Recruiter @ Whop.com we're working on enabling everyone to become an internet entrepreneur
 
-- 🌱 I’m currently getting good at next and typescript building recruiting saas apps
-- 🥅 2023 Goals: Become cracked
-
-We're currently hiring a Sr FS (React / Rails) engineer 180-240k building full fledged features focused on payments, search, and discoverability for our internet marketplace! 
-
-JD -> https://careers.whop.com/26288
+https://careers.whop.com
 
 You can email me at sebastian@whop.com
 ### Connect with me:
