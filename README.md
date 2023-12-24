@@ -5,6 +5,8 @@
 https://careers.whop.com
 
 You can email me at sebastian@whop.com
+
+TypeScript, NextJS 🙏
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/SebCuadros#gh-light-mode-only)
